@@ -1,12 +1,12 @@
-Secure Commincations Software
+<h1>Secure Commincations Software</h1>
 
-Objective:
+<h3>Objective:</h3>
 
-A cryptographical method of communication with friends and family in a way that is easy for the communicator.
+A cryptographical method of communication with friends and family in a way that is easy for the communicator.<br/> 
 
-Requirements
+<h3>Requirements</h3>
 
--Encryption (AES 256 bits) 
--Decentralized(http) 
--Portability Clients (OSX,Win,Linux,Andriod,Iphone) 
--Language(python)
+-Encryption (AES 256 bits)<br/> 
+-Decentralized(http) <br/> 
+-Portability Clients (OSX,Win,Linux,Andriod,Iphone) <br/> 
+-Language(python)<br/> 
